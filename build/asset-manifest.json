@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/temporary_project_typing_game/static/css/main.96400716.css",
+    "main.js": "/temporary_project_typing_game/static/js/main.d9465979.js",
+    "index.html": "/temporary_project_typing_game/index.html",
+    "main.96400716.css.map": "/temporary_project_typing_game/static/css/main.96400716.css.map",
+    "main.d9465979.js.map": "/temporary_project_typing_game/static/js/main.d9465979.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96400716.css",
+    "static/js/main.d9465979.js"
+  ]
+}
