@@ -26,7 +26,7 @@ const Results = ({
     <motion.ul
       initial={initial}
       animate={animate}
-      className={`flex flex-col items-center text-yellow-400 space-y-3 ${className}`}
+      className={`flex flex-col items-center text-purple-400 space-y-3 ${className}`}
     >
       <motion.li
         initial={initial}
