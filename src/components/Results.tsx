@@ -47,7 +47,7 @@ const Results = ({
         initial={initial}
         animate={animate}
         transition={{ duration: 0.3, delay: 1 }}
-        className="text-red-500"
+        className="text-yellow-500"
       >
         Errors: {errors}
       </motion.li>
